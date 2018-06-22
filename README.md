@@ -7,5 +7,8 @@ description: >-
 
 # Ethereum Classic Developer Documentation
 
+The documentation is maintained by ETCDEV Team, however, the community can contribute pull requests to the docs repo.
+
 [Website](http://etcdevteam.com/)
+
 [GitHub](http://github.com/etcdevteam/)
