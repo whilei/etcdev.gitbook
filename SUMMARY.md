@@ -2,6 +2,3 @@
 
 * [Ethereum Classic Developer Documentation](README.md)
 * [What is Ethereum Classic?](what-is-ethereum-classic.md)
-
-[Website](http://etcdevteam.com/)
-[GitHub](http://github.com/etcdevteam/)
