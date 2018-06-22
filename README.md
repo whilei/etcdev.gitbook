@@ -7,3 +7,5 @@ description: >-
 
 # Ethereum Classic Developer Documentation
 
+[Website](http://etcdevteam.com/)
+[GitHub](http://github.com/etcdevteam/)
