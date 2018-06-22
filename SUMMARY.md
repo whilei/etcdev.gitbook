@@ -1,5 +1,4 @@
 # Table of contents
 
 * [Ethereum Classic \| Developer Documentation](README.md)
-* [readme](undefined.md)
-
+* [What is Ethereum Classic](docs/module-01/history.md)
