@@ -1,1 +1,1 @@
-This is my read me file.
+What is Ethereum Classic?
