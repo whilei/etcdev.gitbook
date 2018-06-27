@@ -1,7 +1,3 @@
----
-description: The doc schema for etc docs.
----
-
 # Document Schema
 
 ## Title
