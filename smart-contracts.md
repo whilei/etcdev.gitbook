@@ -4,12 +4,11 @@ description: Smart contracts are cool.
 
 # Smart Contracts
 
-### Creating a Basic Token
+## Creating a Basic Token
 
 {% code-tabs %}
 {% code-tabs-item title="contract.sol" %}
 ```text
-
 pragma solidity ^0.4.20;
 
 contract MyToken {
@@ -49,4 +48,11 @@ This is how to do it in Parity
 {% endtab %}
 {% endtabs %}
 
-djdjdjdjd
+As you can see, tabs can easily show categorize different methods of code.
+
+{% hint style="info" %}
+Feedback is important to us. Submit issues or contributions to this document on Github.
+{% endhint %}
+
+
+
