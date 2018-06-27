@@ -34,7 +34,7 @@ contract MyToken {
 
 {% tabs %}
 {% tab title="First Tab" %}
-kdkd
+`thiwpoewpohdwddwdfew`
 {% endtab %}
 
 {% tab title="Second Tab" %}
