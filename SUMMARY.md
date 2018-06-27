@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Document Schema](docsschema.md)
+* [Introduction](README.md)
+* [Document Schema](document-schema.md)
+
