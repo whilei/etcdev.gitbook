@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Document Schema](document-schema.md)
-* [Smart Contracts](example-document.md)
+* [Smart Contracts](smart-contracts.md)
 

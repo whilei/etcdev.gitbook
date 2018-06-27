@@ -4,9 +4,12 @@ description: Smart contracts are cool.
 
 # Smart Contracts
 
+### Creating a Basic Token
+
 {% code-tabs %}
 {% code-tabs-item title="contract.sol" %}
 ```text
+
 pragma solidity ^0.4.20;
 
 contract MyToken {
@@ -34,14 +37,15 @@ contract MyToken {
 
 {% tabs %}
 {% tab title="Geth" %}
-```
+```text
 This is how to do it in Geth
 ```
 {% endtab %}
 
 {% tab title="Parity" %}
-```
+```text
 This is how to do it in Parity
 ```
 {% endtab %}
 {% endtabs %}
+
