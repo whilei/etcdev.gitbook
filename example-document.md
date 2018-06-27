@@ -33,12 +33,15 @@ contract MyToken {
 {% endcode-tabs %}
 
 {% tabs %}
-{% tab title="First Tab" %}
-`thiwpoewpohdwddwdfew`
+{% tab title="Geth" %}
+```
+This is how to do it in Geth
+```
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="Parity" %}
+```
+This is how to do it in Parity
+```
 {% endtab %}
 {% endtabs %}
-
