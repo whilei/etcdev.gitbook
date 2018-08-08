@@ -2,5 +2,4 @@
 
 * [Introduction](README.md)
 * [Emerald SDK](emerald-sdk/README.md)
-  * [hello](emerald-sdk/hello.md)
-
+  * [Truffle](truffle/README.md.md)
