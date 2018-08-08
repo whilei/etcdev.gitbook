@@ -4,3 +4,4 @@
 * [Emerald SDK](emerald-sdk/README.md)
   * [Truffle](truffle/README.md)
     * [Overview](overview/README.md)
+    * [Installation](truffle-installation.md)
