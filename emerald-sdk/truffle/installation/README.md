@@ -1,7 +1,3 @@
----
-description: Installing Truffle on your system as well as an Ethereum Client to test on.
----
-
 # Installation
 
 ## Install
