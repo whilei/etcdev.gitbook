@@ -9,7 +9,7 @@ description: >-
 
 ## Overview
 
-![](../.gitbook/assets/1_d4iwqqhamuv-c_wxbwm0aw.png)
+![](.gitbook/assets/1_d4iwqqhamuv-c_wxbwm0aw.png)
 
 ### Ethereum RPC API
 
