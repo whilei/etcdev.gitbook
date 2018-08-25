@@ -16,5 +16,9 @@ description: >-
 6. Emerald JS UI
 7. Emerald Tool + SputnikVM Dev \(or ganache\)
 
+{% hint style="danger" %}
+Insert flow chart\(s\) of Emerald SDK layer.
+{% endhint %}
+
 
 
