@@ -7,7 +7,7 @@ description: >-
 
 # Emerald Starter Kit
 
-##   Download
+## Download
 
 Emerald SDK utilizes Truffle's smart contract management to compile, deploy, and test smart contracts.
 
@@ -95,6 +95,22 @@ module.exports = {
     networks: {
       development: {
         host: 'localhost',
+        port: *,
+        gas: *,
+        network_id: '*' // Match any network id
+      }
+    }
+  };
+```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title="Emerald Wallet Client" %}
+```javascript
+// Common Emerald Wallet "mainnet" config.
+module.exports = {
+    networks: {
+      development: {
+        host: 'localhost',
         port: 8545,
         gas: 6000000,
         network_id: '*' // Match any network id
@@ -106,7 +122,7 @@ module.exports = {
 
 {% code-tabs-item title="Ganache Client" %}
 ```javascript
-// If using Ganache Ethereum ETH client.
+// Common Ganache Ethereum client config.
 module.exports = {
     networks: {
       development: {
@@ -114,14 +130,9 @@ module.exports = {
         port: 7545,
         gas: 6000000,
         network_id: 5777
+      }
     }
   };
-```
-{% endcode-tabs-item %}
-
-{% code-tabs-item title="Emerald Wallet Client" %}
-```
-< setting up Emerald config? >
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
