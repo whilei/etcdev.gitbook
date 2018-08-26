@@ -7,7 +7,7 @@ description: >-
 
 # Emerald Starter Kit
 
-## Download
+##   Download
 
 Emerald SDK utilizes Truffle's smart contract management to compile, deploy, and test smart contracts.
 
@@ -86,6 +86,8 @@ What is included in the downloaded \(unboxed\) starter-kit.
 `truffle.js is where the Ethereum Classic client in configured.`
 {% endhint %}
 
+### **Truffle.js**
+
 {% code-tabs %}
 {% code-tabs-item title="truffle.js" %}
 ```javascript
@@ -102,8 +104,9 @@ module.exports = {
 ```
 {% endcode-tabs-item %}
 
-{% code-tabs-item title="Ganche" %}
+{% code-tabs-item title="Ganache Client" %}
 ```javascript
+// If using Ganache Ethereum ETH client.
 module.exports = {
     networks: {
       development: {
@@ -115,7 +118,14 @@ module.exports = {
   };
 ```
 {% endcode-tabs-item %}
+
+{% code-tabs-item title="Emerald Wallet Client" %}
+```
+< setting up Emerald config? >
+```
+{% endcode-tabs-item %}
 {% endcode-tabs %}
 
+  
 
 
