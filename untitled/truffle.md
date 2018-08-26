@@ -1,13 +1,6 @@
----
-description: >-
-  The Emerald Starter Kit is a barebones DApp for new and existing DApp
-  developers. It provides an already built front-end web app integrated with
-  Smart Contracts.
----
-
 # Getting Starterd
 
-## Install 
+## Install Dependencies 
 
 **Truffle**
 
@@ -32,6 +25,4 @@ A developer needs an Ethereum Classic blockchain to run tests, commands, and ins
 {% hint style="info" %}
 Emerald SDK is compatible with Ethereum ETH and Ethereum Classic ETC.
 {% endhint %}
-
-## 
 
