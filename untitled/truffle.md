@@ -22,7 +22,3 @@ A developer needs an Ethereum Classic blockchain to run tests, commands, and ins
 
 &lt; insert a list of Ethereum Classic clients &gt;
 
-{% hint style="info" %}
-Emerald SDK is compatible with Ethereum ETH and Ethereum Classic ETC.
-{% endhint %}
-

@@ -1,13 +1,14 @@
 ---
 description: >-
-  The mission of this documentation is to provide new and existing ether
-  developers fundamental documentation to contribute decentralized solutions to
-  the world.
+  Welcome to Emerald. Emerald is a framework of tools to help new and existing
+  developers create DApps on Ethereum Classic.
 ---
 
 # Introduction
 
-The documentation is maintained by ETCDEV Team, however, the community can contribute pull requests to the docs.
+![Emerald](.gitbook/assets/emerald_sdk_green.jpg)
 
-[ETCDEV Team](http://etcdevteam.com/) \| [GitHub](http://github.com/etcdevteam/)
+Emerald in a open source project by ETCDEV, a core Ethereum Classic team, that works full time on Ethereum Classic projects.
+
+[Website](http://etcdevteam.com) \| [GitHub](http://github.com/etcdevteam/) \| [Twitter](https://twitter.com/etcdev) 
 
