@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [The Etheruem Classic Blockchain](etc-fundamentals/README.md)
+  * [Ethereum Classic Nodes](etc-fundamentals/ethereum-classic-nodes.md)
 * [Emerald SDK](untitled/README.md)
   * [Getting Starterd](untitled/truffle.md)
   * [Emerald Starter Kit](untitled/emerald-starter-kit.md)
