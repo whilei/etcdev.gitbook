@@ -2,7 +2,7 @@
 description: A machine running an implementation of the blockchain.
 ---
 
-# Ethereum Classic Nodes
+# ETC Nodes
 
 ## Overview
 
