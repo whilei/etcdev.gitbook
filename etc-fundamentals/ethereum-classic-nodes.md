@@ -1,7 +1,3 @@
----
-description: A machine running an implementation of the blockchain.
----
-
 # ETC Nodes
 
 ## Overview
@@ -98,7 +94,9 @@ $ brew upgrade geth
 {% endtab %}
 {% endtabs %}
 
-### Initialize 
+### Initialize
+
+
 
 
 

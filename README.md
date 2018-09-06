@@ -1,7 +1,8 @@
 ---
 description: >-
-  Welcome to Emerald. Emerald is a framework of tools to help new and existing
-  developers create DApps on Ethereum Classic.
+  The mission of this documentation is to provide new and existing ether
+  developers fundamental documentation to contribute decentralized solutions to
+  the world.
 ---
 
 # Introduction

@@ -1,9 +1,3 @@
----
-description: >-
-  Emerald SDK is a software development kit with libraries and tools to build
-  Dapps and integrate existing services with the Ethereum Classic blockchain.
----
-
 # Emerald SDK
 
 ### Overview

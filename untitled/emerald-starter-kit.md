@@ -1,10 +1,3 @@
----
-description: >-
-  The Emerald Starter Kit is a simple DApp for new and existing DApp developers.
-  It provides an already built front-end web app integrated with Smart Contracts
-  and other Emerald features
----
-
 # Emerald Starter Kit
 
 ## Download

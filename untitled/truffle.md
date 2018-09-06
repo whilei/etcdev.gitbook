@@ -1,6 +1,6 @@
-# Getting Started
+# Getting Starterd
 
-## Install Dependencies 
+## Install Dependencies
 
 **Truffle**
 
