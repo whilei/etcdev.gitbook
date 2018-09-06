@@ -1,4 +1,4 @@
-# Getting Starterd
+# Getting Started
 
 ## Install Dependencies 
 
