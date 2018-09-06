@@ -22,7 +22,11 @@ Running an Ethereum Classic node downloads and syncs the entire blockchain to a 
 Interactions performed on the blockchain are done through a node. Many app wallet users don't realize that their wallets submit transactions through a third party node being the wallet app provider or other party.
 {% endhint %}
 
-### Why Run a Full Node
+### Why Run Your Own Node
+
+1. **Control YOUR transactions:** Utilizing your own node to perform activity on the Ethereum Classic network ensures you are in control of your activity. Using a third party node can be ideal for some users, but trust third parties at your own risk.
+2. **Take Part in the ETC Network:** More independent nodes ensures the security and resilience of the network, as well as increased performance such as, reducing latency.
+3. **Developers! Developers! Developers!:** Developers can use nodes to deploy and interact with Smart Contracts for their DApps.
 
 
 
