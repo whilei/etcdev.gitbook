@@ -1,2 +1,2 @@
-# The Etheruem Classic Blockchain
+# Etheruem Classic Blockchain
 
