@@ -1,8 +1,14 @@
+---
+description: >-
+  Emerald Software Development Kit (SDK) is a development framework to create
+  DApps.
+---
+
 # Emerald SDK
 
 ### Overview
 
-1. Truffle
+1. Truffle \(This will be Emerald Soon\)
 2. Emerald-JS or Web3
 3. Metamask \(try injecting some middleware, identity management, emerald-accounts later?\)
 4. React
