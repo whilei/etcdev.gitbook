@@ -1,15 +1,12 @@
 ---
 description: >-
-  The mission of this documentation is to provide new and existing ether
-  developers fundamental documentation to contribute decentralized solutions to
-  the world.
+  This documentation is an ongoing effort by ETCDEV Team to help new and
+  existing developers build decentralized applications on Ethereum Classic.
 ---
 
-# Introduction
+# ETCDEV Documentation
 
-![Emerald](.gitbook/assets/emerald_sdk_green.jpg)
-
-Emerald in a open source project by ETCDEV, a core Ethereum Classic team, that works full time on Ethereum Classic projects.
+Community contributions to the documentation can be submitted through GitHub.
 
 [Website](http://etcdevteam.com) \| [GitHub](http://github.com/etcdevteam/) \| [Twitter](https://twitter.com/etcdev) 
 

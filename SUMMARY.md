@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [ETCDEV Documentation](README.md)
 * [Emerald Platform](emerald-platform/README.md)
   * [Emerald CLI](emerald-platform/emerald-cli/README.md)
     * [Introduction](emerald-platform/emerald-cli/introduction.md)
