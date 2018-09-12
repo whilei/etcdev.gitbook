@@ -1,6 +1,11 @@
 # Table of contents
 
 * [ETCDEV Documentation](README.md)
+* [Emerald SDK](untitled/README.md)
+  * [Getting Starterd](untitled/truffle.md)
+  * [Emerald Starter Kit](untitled/emerald-starter-kit.md)
+* [Etheruem Classic Blockchain](etc-fundamentals/README.md)
+  * [ETC Nodes](etc-fundamentals/ethereum-classic-nodes.md)
 * [Emerald Platform](emerald-platform/README.md)
   * [Emerald CLI](emerald-platform/emerald-cli/README.md)
     * [Introduction](emerald-platform/emerald-cli/introduction.md)
@@ -13,9 +18,4 @@
   * [Emerald Js](emerald-platform/emerald-js/README.md)
     * [How To Find All Particular Contracts](emerald-platform/emerald-js/how-to-find-all-particular-contracts.md)
     * [Javascript API](emerald-platform/emerald-js/javascript-api.md)
-* [Emerald SDK](untitled/README.md)
-  * [Getting Starterd](untitled/truffle.md)
-  * [Emerald Starter Kit](untitled/emerald-starter-kit.md)
-* [Etheruem Classic Blockchain](etc-fundamentals/README.md)
-  * [ETC Nodes](etc-fundamentals/ethereum-classic-nodes.md)
 
