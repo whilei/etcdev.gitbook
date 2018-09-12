@@ -2,7 +2,7 @@
 
 * [ETCDEV Documentation](README.md)
 * [Emerald SDK](untitled/README.md)
-  * [Getting Starterd](untitled/truffle.md)
+  * [Getting Started](untitled/truffle.md)
   * [Emerald Starter Kit](untitled/emerald-starter-kit.md)
 * [Etheruem Classic Blockchain](etc-fundamentals/README.md)
   * [ETC Nodes](etc-fundamentals/ethereum-classic-nodes.md)
