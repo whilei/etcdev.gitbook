@@ -6,7 +6,7 @@ description: >-
 
 # ETCDEV Documentation
 
-Community contributions to the documentation can be submitted through GitHub.
+Community contributions to the documentation can be submitted on GitHub. 
 
 [Website](http://etcdevteam.com) \| [GitHub](http://github.com/etcdevteam/) \| [Twitter](https://twitter.com/etcdev) 
 
