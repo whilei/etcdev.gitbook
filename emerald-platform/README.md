@@ -32,13 +32,9 @@ Already built react components
 
 ### Emerald-Starter-Kit
 
-sdfsdfsdf
+A barebones DApp offering a standardized process to develop DApps.
 
-### Emerald-CLI
+### SputnikVM-Dev
 
-sdsdfsdfdsf
-
-### SputnikVM-Devs
-
-dsdfdsf
+A next generation EVM
 
