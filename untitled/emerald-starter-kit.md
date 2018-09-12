@@ -34,7 +34,7 @@ The starter kit is a barebones DApp using React. However, Emerald is attentive t
 * `truffle.js` : blockchain client configuration file.
 
 {% hint style="info" %}
-`truffle.js is where the Ethereum Classic client in configured.`
+`truffle.js is where the user's Ethereum Classic client in configured.`
 {% endhint %}
 
 ### **truffle.js**
