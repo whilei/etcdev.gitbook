@@ -49,6 +49,7 @@ The starter kit is a barebones DApp using React. However, Emerald is attentive t
 {% code-tabs %}
 {% code-tabs-item title="truffle.js" %}
 ```javascript
+// Common Emerald Wallet "geth" config.
 module.exports = {
     networks: {
       development: {
@@ -64,7 +65,7 @@ module.exports = {
 
 {% code-tabs-item title="Emerald Wallet Client" %}
 ```javascript
-// Common Emerald Wallet "geth" config.
+// Default with Emerald
 module.exports = {
     networks: {
       development: {
