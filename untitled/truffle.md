@@ -1,6 +1,6 @@
 # Getting Starterd
 
-## Install Dependencies
+## Get Emerald
 
 **Emerald**
 
@@ -16,11 +16,7 @@ Within the working directory run
 $ npm link
 ```
 
-This process may take a few minutes. When it's done, see what Emerald has to offer. 
-
-```text
-$ emerald -h
-```
+This process may take a few minutes. When it's done, run `emerald -h` to see Emerald commands.
 
 ```text
 $ emerald -h
