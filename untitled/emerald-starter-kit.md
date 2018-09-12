@@ -1,3 +1,7 @@
+---
+description: Emerald Starter
+---
+
 # Emerald Starter Kit
 
 ## Download
