@@ -20,9 +20,16 @@ New Emerald project created
 
 ## Internals 
 
-What is included in the starter-kit.
+Looking at what is included in the starter-kit.
 
-![](../.gitbook/assets/screen-shot-2018-09-11-at-8.28.33-pm.png)
+```text
+$ ls
+config			package.json		truffle.js
+contracts		public			tsconfig.json
+migrations		src			tslint.json
+node_modules		test			webpack.config.ts
+package-lock.json	truffle-config.js
+```
 
 The starter kit is a barebones DApp using React. However, Emerald is attentive to specific file structures as Truffle would.
 
