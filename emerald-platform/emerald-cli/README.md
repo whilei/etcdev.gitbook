@@ -1,4 +1,2 @@
 # Emerald CLI
 
-
-

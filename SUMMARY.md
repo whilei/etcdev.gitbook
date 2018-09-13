@@ -5,6 +5,7 @@
   * [Getting Started](untitled/truffle.md)
   * [Emerald Starter Kit](untitled/emerald-starter-kit.md)
 * [Emerald Platform](emerald-platform/README.md)
+  * [Emerald](emerald-platform/emerald.md)
   * [Emerald CLI](emerald-platform/emerald-cli/README.md)
     * [Introduction](emerald-platform/emerald-cli/introduction.md)
     * [Install](emerald-platform/emerald-cli/install.md)
