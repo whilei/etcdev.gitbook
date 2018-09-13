@@ -95,5 +95,50 @@ $ emerald -h
 
 ## Usage
 
+### emerald new
+
+To create a new emerald project, run `emerald new` in terminal.
+
+```text
+$ mkdir my-dapp
+$ cd my-dapp 
+$ emerald new
+New Emerald project created
+```
+
+By creating a new emerald project with the command `emerald new`, emerald will populate the working directory, `my-dapp` with an Emerald DApp environment.
+
+```text
+.
+├── config
+│   └── jest
+│       ├── file-transform.ts
+│       └── polyfills.ts
+├── contracts
+│   ├── Migrations.sol
+│   └── Todos.sol
+├── migrations
+│   ├── 1_initial_migration.js
+│   └── 2_deploy_contracts.js
+├── package-lock.json
+├── package.json
+├── public
+│   ├── favicon.ico
+│   └── index.html
+├── src
+│   ├── App.test.tsx
+│   ├── App.tsx
+│   ├── contract-interfaces
+│   │   └── ITodos.tsx
+│   └── index.tsx
+├── test
+│   └── Todos.js
+├── truffle-config.js
+├── truffle.js
+├── tsconfig.json
+├── tslint.json
+└── webpack.config.ts
+```
+
 
 
