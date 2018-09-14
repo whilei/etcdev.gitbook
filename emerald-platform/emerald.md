@@ -140,5 +140,15 @@ By creating a new emerald project with the command `emerald new`, emerald will p
 └── webpack.config.ts
 ```
 
+### emerald testrpc
 
+To run an Ethereum Classic testnet \(Sputnik VM Dev\), run `emerald testrpc`
+
+```text
+$ emerald testrpc
+address: 74cbe1c04a9221f2a25050ba2fc6ef5cef77fee4
+private key: 0x130bc24e27cd27f6bfaa3478db269f3fa703965e6c7a24d8ab3fc3b572ef2b18
+```
+
+Emerald testRPC will return 10 address with their associated private keys.
 
