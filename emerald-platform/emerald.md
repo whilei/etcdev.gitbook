@@ -43,7 +43,25 @@ $ nodenv install 8.11.1
 $ nodenv global 8.11.1
 ```
 
-Confirm node directory. 
+Then initialize nodenv.
+
+```text
+$ nodenv init
+```
+
+You may be prompted to add an append `.bash_profile`
+
+```text
+$ nodenv init
+# Load nodenv automatically by appending
+# the follow to ~/.bash_profile:
+
+eval "$(nodenv init -)"
+```
+
+Simply add  `eval "$(nodenv init -)"` to .`bash_profile` or create a `.bash_profile` if one does not exist already. Finally, run `nodenv init` when `.bash_profile` has been appended.
+
+Confirm node directory. `Node` and `NPM` should be ready to use now.
 
 ```text
 $ which node
@@ -142,7 +160,7 @@ By creating a new emerald project with the command `emerald new`, emerald will p
 
 ### emerald testrpc
 
-To run an Ethereum Classic testnet \(Sputnik VM Dev\), run `emerald testrpc`
+To run an Ethereum Classic testNet \(Sputnik VM Dev\), run `emerald testrpc`
 
 ```text
 $ emerald testrpc
@@ -150,5 +168,11 @@ address: 74cbe1c04a9221f2a25050ba2fc6ef5cef77fee4
 private key: 0x130bc24e27cd27f6bfaa3478db269f3fa703965e6c7a24d8ab3fc3b572ef2b18
 ```
 
-Emerald testRPC will return 10 address with their associated private keys.
+Emerald testRPC will return 10 testNet addresses with their associated private keys.
+
+{% hint style="warning" %}
+Terminating the terminal running the testRPC will terminate the local testNet. Simply leave it to run in the background until you no longer need it running.
+{% endhint %}
+
+
 

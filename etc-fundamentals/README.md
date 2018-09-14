@@ -1,4 +1,4 @@
-# Etheruem Classic Blockchain
+# ETC Blockchain Basics
 
 
 
