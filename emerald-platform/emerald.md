@@ -174,5 +174,34 @@ Emerald testRPC will return 10 testNet addresses with their associated private k
 Terminating the terminal running the testRPC will terminate the local testNet. Simply leave it to run in the background until you no longer need it running.
 {% endhint %}
 
+### emerald wallet
+
+To open the Emerald Wallet, run `emerald wallet`
+
+```text
+$ emerald wallet
+```
+
+This will open the Emerald Wallet. If emerald testRPC is running, Emerald will will display the block height of the local testNet in the app bar.
+
+![](../.gitbook/assets/screen-shot-2018-09-14-at-12.41.51-pm.png)
+
+### emerald deploy
+
+To deploy an Emerald DApp to an Ethereum Classic network, run `emerald deploy` in the working directory of an Emerald DApp. The network specifications can be customized in `truffle.js` if needed. By default Emerald Wallet will connect with the emerald testRPC.
+
+```text
+$ emerald deploy
+migrated
+```
+
+{% hint style="info" %}
+Deployment will fail if no network is running or configured properly in `truffle.js`
+{% endhint %}
+
+### emerald help
+
+To view commands and options, run `emerald -h`
+
 
 
