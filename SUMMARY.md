@@ -2,8 +2,8 @@
 
 * [ETCDEV Documentation](README.md)
 * [Emerald SDK](untitled/README.md)
-  * [Getting Started](untitled/truffle.md)
-  * [Emerald Starter Kit](untitled/emerald-starter-kit.md)
+  * [Getting Started](emerald-sdk/truffle.md)
+  * [Emerald Starter Kit](emerald-sdk/emerald-starter-kit.md)
 * [Emerald Platform](emerald-platform/README.md)
   * [Emerald](emerald-platform/emerald.md)
   * [Emerald CLI](emerald-platform/emerald-cli/README.md)
@@ -19,4 +19,3 @@
     * [Javascript API](emerald-platform/emerald-js/javascript-api.md)
 * [ETC Blockchain Basics](etc-fundamentals/README.md)
   * [ETC Nodes](etc-fundamentals/ethereum-classic-nodes.md)
-
