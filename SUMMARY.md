@@ -2,7 +2,7 @@
 
 * [ETCDEV Documentation](README.md)
 * [Emerald SDK](untitled/README.md)
-  * [Getting Started](emerald-sdk/truffle.md)
+  * [Getting Started](emerald-sdk/emeraldsdk-get-started.md)
   * [Emerald Starter Kit](emerald-sdk/emerald-starter-kit.md)
 * [Emerald Platform](emerald-platform/README.md)
   * [Emerald](emerald-platform/emerald.md)
