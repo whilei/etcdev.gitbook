@@ -1,9 +1,3 @@
----
-description: >-
-  Emerald Platform is a framework of tools to help developers create
-  decentralized applications on Ethereum Classic.
----
-
 # Emerald Platform
 
 ![Emerald](../.gitbook/assets/emerald_sdk_green.jpg)

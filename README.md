@@ -1,7 +1,8 @@
 ---
 description: >-
-  This documentation is an ongoing effort by ETCDEV Team to help new and
-  existing developers build decentralized applications on Ethereum Classic.
+  The mission of this documentation is to provide new and existing ether
+  developers fundamental documentation to contribute decentralized solutions to
+  the world.
 ---
 
 # ETCDEV Documentation

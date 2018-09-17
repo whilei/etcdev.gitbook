@@ -10,7 +10,7 @@ Download Emerald at [https://github.com/ETCDEVTeam/emerald](https://github.com/E
 $ git clone https://github.com/ETCDEVTeam/emerald
 ```
 
-Within the working directory run 
+Within the working directory run
 
 ```text
 $ npm link
@@ -42,6 +42,6 @@ $ emerald -h
      -V, --version      Display version                                   
      --no-color         Disable colors                                    
      --quiet            Quiet mode - only displays warn and error messages
-     -v, --verbose      Verbose mode - will also output debug messages    
+     -v, --verbose      Verbose mode - will also output debug messages
 ```
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ETCDEV Documentation](README.md)
-* [Emerald SDK](untitled/README.md)
+* [Emerald SDK](emerald-sdk/README.md)
   * [Getting Started](emerald-sdk/emeraldsdk-get-started.md)
   * [Emerald Starter Kit](emerald-sdk/emerald-starter-kit.md)
 * [Emerald Platform](emerald-platform/README.md)
@@ -19,3 +19,4 @@
     * [Javascript API](emerald-platform/emerald-js/javascript-api.md)
 * [ETC Blockchain Basics](etc-fundamentals/README.md)
   * [ETC Nodes](etc-fundamentals/ethereum-classic-nodes.md)
+

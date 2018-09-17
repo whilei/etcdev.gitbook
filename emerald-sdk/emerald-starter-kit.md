@@ -15,20 +15,20 @@ Inside the DApp directory, create a new Emerald DApp with `emerald new`
 ```text
 $ cd emerald-starter-kit
 $ emerald new
-New Emerald project created 
+New Emerald project created
 ```
 
-## Internals 
+## Internals
 
 Looking at what is included in the starter-kit.
 
 ```text
 $ ls
-config			package.json		truffle.js
-contracts		public			tsconfig.json
-migrations		src			tslint.json
-node_modules		test			webpack.config.ts
-package-lock.json	truffle-config.js
+config            package.json        truffle.js
+contracts        public            tsconfig.json
+migrations        src            tslint.json
+node_modules        test            webpack.config.ts
+package-lock.json    truffle-config.js
 ```
 
 The starter kit is a barebones DApp which uses React. However, Emerald is attentive to specific file structures as Truffle would.
@@ -96,7 +96,7 @@ module.exports = {
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-## Run Emerald TestRPC 
+## Run Emerald TestRPC
 
 Within the DApp directory, run `emerald testrpc` to run a local test net Ethereum Classic blockchain
 
@@ -118,7 +118,7 @@ $ emerald wallet
 
 Import an Emerald TestRPC account using an account's private key. Emerald Wallet will ask for a password for the account.
 
-Emerald Wallet now has an  ETC account to start interacting with DApps.
+Emerald Wallet now has an ETC account to start interacting with DApps.
 
 ## Launch The DApp
 
@@ -150,7 +150,7 @@ By default Emerald starter-kit launches to [http://localhost:8080/](http://local
 
 ### Interact with the Smart Contract
 
-The App Bar has an Account selector. These accounts are associated with the Emerald TestRPC Account that was imported into Emerald Wallet. When adding a new ToDo item, the Emerald Wallet will be prompted to open and sign the transaction. When the transaction is signed, the ToDo item will be added to the list. 
+The App Bar has an Account selector. These accounts are associated with the Emerald TestRPC Account that was imported into Emerald Wallet. When adding a new ToDo item, the Emerald Wallet will be prompted to open and sign the transaction. When the transaction is signed, the ToDo item will be added to the list.
 
 Enter **Hello World** into the ToDo text field and click **Send Transaction**.
 
@@ -160,9 +160,9 @@ Allow the DApp to access Emerald Wallet. Continue to review and sign the transac
 
 ![](../.gitbook/assets/screen-shot-2018-09-12-at-2.12.59-am.png)
 
-When the transaction is submitted, the ToDo item should have been added to the  ToDo list.
+When the transaction is submitted, the ToDo item should have been added to the ToDo list.
 
 ![](../.gitbook/assets/screen-shot-2018-09-12-at-2.00.46-am.png)
 
-Congratulations, you've just used an Emerald DApp using a Test Net! 
+Congratulations, you've just used an Emerald DApp using a Test Net!
 

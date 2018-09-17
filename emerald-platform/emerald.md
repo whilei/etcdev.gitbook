@@ -1,9 +1,3 @@
----
-description: >-
-  Emerald is a testing environment and framework that eases the development of
-  decentralized applications on the Ethereum Classic blockchain.
----
-
 # Emerald
 
 **GitHub** [https://github.com/ETCDEVTeam/emerald](https://github.com/ETCDEVTeam/emerald)
