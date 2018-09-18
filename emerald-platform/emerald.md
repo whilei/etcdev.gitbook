@@ -168,6 +168,18 @@ Emerald testRPC will return 10 testNet addresses with their associated private k
 Terminating the terminal running the testRPC will terminate the local testNet. Simply leave it to run in the background until you no longer need it running.
 {% endhint %}
 
+### emerald explorer
+
+To view a blockchain explorer, run emerald explorer
+
+```text
+$ emerald emerald explorer
+```
+
+The local block explorer will publish to [http://localhost:3000/blocks](http://localhost:3000/blocks). If a emerald testrpc is running, the explorer can toggle between the local testnet or mainnet in the app bar.
+
+![Emerald Explorer](../.gitbook/assets/screen-shot-2018-09-18-at-4.19.30-pm.png)
+
 ### emerald wallet
 
 To open the Emerald Wallet, run `emerald wallet`
@@ -178,7 +190,7 @@ $ emerald wallet
 
 This will open the Emerald Wallet. If emerald testRPC is running, Emerald will will display the block height of the local testNet in the app bar.
 
-![](../.gitbook/assets/screen-shot-2018-09-14-at-12.41.51-pm.png)
+![Emerald Wallet](../.gitbook/assets/screen-shot-2018-09-14-at-12.41.51-pm.png)
 
 ### emerald deploy
 
