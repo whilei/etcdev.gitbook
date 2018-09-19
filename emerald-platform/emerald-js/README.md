@@ -1,4 +1,4 @@
-# Emerald Js
+# Emerald JS
 
 
 
