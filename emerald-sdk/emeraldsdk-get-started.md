@@ -7,7 +7,7 @@
 Download Emerald at [https://github.com/ETCDEVTeam/emerald](https://github.com/ETCDEVTeam/emerald)
 
 ```text
-$ git clone https://github.com/ETCDEVTeam/emerald
+$ git clone https://github.com/ETCDEVTeam/emerald.git
 ```
 
 Within the working directory run
