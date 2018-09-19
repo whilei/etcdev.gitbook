@@ -10,7 +10,7 @@ Download Emerald at [https://github.com/ETCDEVTeam/emerald](https://github.com/E
 $ git clone https://github.com/ETCDEVTeam/emerald.git
 ```
 
-Within the working directory run
+Within the working directory run the following. Note that it may be necessary for your system to run with `sudo`. 
 
 ```text
 $ npm link
